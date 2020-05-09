@@ -27,10 +27,10 @@ import cv2
 
 ## OUTPUT
 
-ENCODING:\n
-![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/exc.png)
-DECODING:
-![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/b5.png)
+ENCODING:  
+![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/crenc.png)  
+DECODING:  
+![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/b5.png)  
 
 
 ## Contributing
