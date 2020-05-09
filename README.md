@@ -20,7 +20,8 @@ There are various ways to implement Chaos Theory. We have used the Henon Map.
 Given initial conditions (x0,y0), a henon map is given by the following equations:  
 (Xn+1) = (Yn) + 1 − a.(Xn)^2  
 (Yn+1) = b * (Xn)  
-Classical Henon map have values of a = 1.4 and b = 0.3. For the classical values the Henon map is chaotic. For other values of a and b the map may be chaotic, intermittent, or converge to a periodic orbit.
+Classical Henon map have values of a = 1.4 and b = 0.3. For the classical values the Henon map is chaotic. For other values of a and b the map may be chaotic, intermittent, or converge to a periodic orbit.  
+For more details, view Description(file).
 ## Usage
 
 ```python
