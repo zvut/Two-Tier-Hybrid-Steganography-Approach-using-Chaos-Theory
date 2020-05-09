@@ -40,14 +40,14 @@ MESSAGE:
 ```bash
 ENEMY MOVING WEST. ATTACK.
 ```
-IMAGE:  
+IMAGE:    
 ![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/exc.png)    
 
 ## OUTPUT
 
-ENCODING:  
+ENCODING:    
 ![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/crenc.png)  
-DECODING:  
+DECODING:    
 ![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/b5.png)  
 
 
