@@ -40,8 +40,8 @@ MESSAGE:
 ```bash
 ENEMY MOVING WEST. ATTACK.
 ```
-IMAGE:
-![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/exc.png)  
+IMAGE:  
+![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/exc.png)    
 
 ## OUTPUT
 
