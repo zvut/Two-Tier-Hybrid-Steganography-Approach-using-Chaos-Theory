@@ -52,7 +52,7 @@ DECODING:
 ![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/b5.png)  
 
 ## COMPARISION(Pixel Intensity)  
-VIEW COMPARISION.pynb  
+view COMPARISION.pynb  
 ORIGNAL IMAGE:    
 ![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/comp1.png)  
 FINAL IMAGE:    
