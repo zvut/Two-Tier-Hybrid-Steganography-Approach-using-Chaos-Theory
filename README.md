@@ -12,6 +12,15 @@ Jupyter Notebook
 pip install jupyterlab
 ```
 
+## Methodology  
+First LSB method is used to hide data within image.  
+Then for encrypting image we have shuffled image's pixels using chaos theory, to create a noise image.  
+Chaotic systems are a simple sub-type of nonlinear dynamical systems. They may contain very few interacting parts and these may follow very simple rules, but these systems all have a very sensitive dependence on their initial conditions. Despite their deterministic simplicity, over time these systems can produce totally unpredictable and wildly divergent behavior.  
+There are various ways to implement Chaos Theory. We have used the Henon Map.  
+Given initial conditions (x0,y0), a henon map is given by the following equations:  
+(Xn+1) = (Yn) + 1 − a.(Xn)^2  
+(Yn+1) = b * (Xn)  
+Classical Henon map have values of a = 1.4 and b = 0.3. For the classical values the Henon map is chaotic. For other values of a and b the map may be chaotic, intermittent, or converge to a periodic orbit.
 ## Usage
 
 ```python
