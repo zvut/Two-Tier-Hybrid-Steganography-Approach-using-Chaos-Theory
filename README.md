@@ -51,7 +51,12 @@ ENCODING:
 DECODING:    
 ![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/b5.png)  
 
+## COMPARISION(Pixel Intensity)
 
+ORIGNAL IMAGE:    
+![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/comp1.png)  
+FINAL IMAGE:    
+![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/comp2.png)  
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
