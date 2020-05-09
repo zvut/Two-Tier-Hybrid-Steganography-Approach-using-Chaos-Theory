@@ -33,6 +33,10 @@ import cv2
 %run ./Comparision.ipynb # compare orignal and fianl image on basis of pixel intensity.
 
 ```
+## INPUT
+
+MESSAGE: ENEMY MOVING WEST. ATTACK.  
+![](https://github.com/MayankShekhar-MrMaaK/Two-Tier-Hybrid-Steganography-Approach-using-Chaos-Theory./blob/master/exc.png)  
 
 ## OUTPUT
 
